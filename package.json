@@ -1,0 +1,24 @@
+{
+  "name": "myresume",
+  "version": "1.0.0",
+  "description": "",
+  "source": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neeraj83760/Resume.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neeraj83760/Resume/issues"
+  },
+  "homepage": "https://github.com/neeraj83760/Resume#readme",
+  "devDependencies": {
+    "parcel": "^2.6.2"
+  }
+}
+
