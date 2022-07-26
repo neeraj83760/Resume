@@ -1,4 +1,4 @@
-14321
+14351
 35/home/neeraj/MyResume/css/print.css1611239950000000000 0
 34/home/neeraj/MyResume/css/site.css1611239950000000000 0
 58/home/neeraj/MyResume/css/font-awesome/css/regular.min.css1608214256000000000 0
@@ -181,39 +181,54 @@
 50/home/neeraj/MyResume/dist/all.min.18ee6ef1.js.map1658692622290716656 0
 44/home/neeraj/MyResume/dist/main.c52e0fe2.css1658692393776332526 0
 54/home/neeraj/MyResume/dist/fa-regular-400.d9ebf007.ttf1658692393776332526 0
+45/home/neeraj/MyResume/dist/index.4bad1a46.css1658725696581530928 0
 47/home/neeraj/MyResume/dist/main.d8ebb8d6.js.map1658692622290716656 0
 35/home/neeraj/MyResume/dist/index.js1658692394148329335 0
+52/home/neeraj/MyResume/dist/fa-solid-900.b0560335.ttf1658725684037352187 0
 53/home/neeraj/MyResume/dist/fa-solid-900.1451341e.woff1658694148165181157 0
 52/home/neeraj/MyResume/dist/fa-solid-900.92965a66.ttf1658692393772332560 0
 46/home/neeraj/MyResume/dist/neeraj.4347a30a.jpg1658692393772332560 0
 54/home/neeraj/MyResume/dist/fa-solid-900.c376bc25.woff21658694148165181157 0
 53/home/neeraj/MyResume/dist/fa-brands-400.07d8a7cd.ttf1658692393776332526 0
+49/home/neeraj/MyResume/dist/index.42933fa2.css.map1658725696641531732 0
+54/home/neeraj/MyResume/dist/fa-regular-400.63962431.ttf1658725683921350430 0
 47/home/neeraj/MyResume/dist/all.min.18ee6ef1.css1658692393772332560 0
 51/home/neeraj/MyResume/dist/all.min.18ee6ef1.css.map1658692394336327725 0
-43/home/neeraj/MyResume/dist/NeerajResume.pdf1658694148161181050 0
+43/home/neeraj/MyResume/dist/NeerajResume.pdf1658725683921350430 0
 52/home/neeraj/MyResume/dist/fa-solid-900.a3d8ec87.eot1658694148641193925 0
 49/home/neeraj/MyResume/dist/index.f7f15447.css.map1658694147093152370 0
 56/home/neeraj/MyResume/dist/fa-regular-400.3d6f6f9d.woff21658692393772332560 0
 54/home/neeraj/MyResume/dist/fa-regular-400.360fb118.ttf1658694148157180943 0
 53/home/neeraj/MyResume/dist/fa-brands-400.7ef6b381.eot1658694148169181265 0
 53/home/neeraj/MyResume/dist/fa-brands-400.bafe90f6.eot1658692393776332526 0
+49/home/neeraj/MyResume/dist/index.a6b6d8e0.css.map1658725696641531732 0
 43/home/neeraj/MyResume/dist/main.c52e0fe2.js1658692394148329335 0
+48/home/neeraj/MyResume/dist/index.1963dff3.js.map1658725696641531732 0
+53/home/neeraj/MyResume/dist/fa-brands-400.a9035e88.ttf1658725683953350916 0
 55/home/neeraj/MyResume/dist/fa-regular-400.5fe9ac7d.woff1658694148161181050 0
 56/home/neeraj/MyResume/dist/fa-regular-400.71f65ce0.woff21658694148161181050 0
 47/home/neeraj/MyResume/dist/aos.c6e68936.css.map1658692394336327725 0
 55/home/neeraj/MyResume/dist/fa-regular-400.6bcbee23.woff1658692393772332560 0
+45/home/neeraj/MyResume/dist/index.1724790b.css1658725696581530928 0
 56/home/neeraj/MyResume/dist/bootstrap.min.108cc16f.js.map1658692622290716656 0
 54/home/neeraj/MyResume/dist/fa-regular-400.1607812c.svg1658694150129233793 0
+54/home/neeraj/MyResume/dist/fa-solid-900.a78322f7.woff21658725683925350490 0
 55/home/neeraj/MyResume/dist/fa-brands-400.43c43acd.woff21658692393776332526 0
+45/home/neeraj/MyResume/dist/index.a6b6d8e0.css1658725696581530928 0
+52/home/neeraj/MyResume/dist/fa-solid-900.d8fe7b15.eot1658725684033352128 0
 48/home/neeraj/MyResume/dist/index.52d5f17d.js.map1658694147093152370 0
 53/home/neeraj/MyResume/dist/fa-brands-400.b0b1723c.svg1658694150125233686 0
 44/home/neeraj/MyResume/dist/index.52d5f17d.js1658694147045151080 0
+53/home/neeraj/MyResume/dist/fa-brands-400.5806da7c.svg1658725690185442496 0
 44/home/neeraj/MyResume/dist/index.7a4f7b55.js1658694147045151080 0
 59/home/neeraj/MyResume/dist/bootstrap.bundle.min.84ac50db.js1658692394148329335 0
 55/home/neeraj/MyResume/dist/fa-brands-400.fdf726b4.woff21658694148161181050 0
+52/home/neeraj/MyResume/dist/fa-solid-900.630892ef.svg1658725690185442496 0
+46/home/neeraj/MyResume/dist/neeraj.683fc62c.jpg1658725690065440789 0
+49/home/neeraj/MyResume/dist/index.4bad1a46.css.map1658725696641531732 0
 47/home/neeraj/MyResume/dist/main.c52e0fe2.js.map1658692622290716656 0
-37/home/neeraj/MyResume/dist/index.html1658724714935484616 0
-26/home/neeraj/MyResume/dist1658724714971485219 1
+37/home/neeraj/MyResume/dist/index.html1658725696581530928 0
+26/home/neeraj/MyResume/dist1658725696645531786 1
 53/home/neeraj/MyResume/scripts/bootstrap.bundle.min.js1611157426000000000 0
 32/home/neeraj/MyResume/index.html1658724672946724920 0
 45/home/neeraj/MyResume/node_modules/uuid/v1.js1658692286065351164 0
@@ -221,6 +236,7 @@
 51/home/neeraj/MyResume/node_modules/uuid/lib/sha1.js1658692286029351538 0
 50/home/neeraj/MyResume/node_modules/uuid/lib/v35.js1658692286125350540 0
 58/home/neeraj/MyResume/node_modules/uuid/lib/bytesToUuid.js1658692285641355577 0
+49/home/neeraj/MyResume/dist/index.1724790b.css.map1658725696641531732 0
 50/home/neeraj/MyResume/node_modules/uuid/lib/rng.js1658692285973352121 0
 58/home/neeraj/MyResume/node_modules/uuid/lib/md5-browser.js1658692285765354287 0
 50/home/neeraj/MyResume/node_modules/uuid/lib/md5.js1658692285813353786 0
@@ -368,6 +384,7 @@
 68/home/neeraj/MyResume/node_modules/parcel/node_modules/color-convert1658693012605047141 1
 63/home/neeraj/MyResume/node_modules/parcel/node_modules/get-port1658693019013027266 1
 75/home/neeraj/MyResume/node_modules/parcel/node_modules/ansi-styles/index.js1658693011829049560 0
+44/home/neeraj/MyResume/dist/index.01b45911.js1658725696581530928 0
 76/home/neeraj/MyResume/node_modules/parcel/node_modules/ansi-styles/readme.md1658693012009048998 0
 77/home/neeraj/MyResume/node_modules/parcel/node_modules/ansi-styles/index.d.ts1658693012441047652 0
 79/home/neeraj/MyResume/node_modules/parcel/node_modules/ansi-styles/package.json1658693011913049298 0
@@ -875,6 +892,7 @@
 93/home/neeraj/MyResume/node_modules/@parcel/optimizer-image/node_modules/has-flag/package.json1658693011653050109 0
 95/home/neeraj/MyResume/node_modules/@parcel/optimizer-image/node_modules/supports-color/index.js1658693011893049360 0
 94/home/neeraj/MyResume/node_modules/@parcel/optimizer-image/node_modules/supports-color/license1658693011653050109 0
+54/home/neeraj/MyResume/dist/fa-brands-400.f4f6c716.woff1658725683925350490 0
 86/home/neeraj/MyResume/node_modules/@parcel/optimizer-image/node_modules/supports-color1658693011985049073 1
 90/home/neeraj/MyResume/node_modules/@parcel/optimizer-image/node_modules/color-name/LICENSE1658693011893049360 0
 82/home/neeraj/MyResume/node_modules/@parcel/optimizer-image/node_modules/color-name1658693011893049360 1
@@ -1412,6 +1430,7 @@
 98/home/neeraj/MyResume/node_modules/@parcel/runtime-service-worker/node_modules/@parcel/logger/test1658693016573034812 1
 104/home/neeraj/MyResume/node_modules/@parcel/transformer-js/node_modules/@parcel/utils/src/alternatives.js1658693015465038247 0
 93/home/neeraj/MyResume/node_modules/@parcel/runtime-service-worker/node_modules/@parcel/logger1658693016581034787 1
+45/home/neeraj/MyResume/dist/index.42933fa2.css1658725696581530928 0
 105/home/neeraj/MyResume/node_modules/@parcel/runtime-service-worker/node_modules/@parcel/utils/.eslintrc.js1658693016493035060 0
 105/home/neeraj/MyResume/node_modules/@parcel/runtime-service-worker/node_modules/@parcel/utils/lib/index.js1658693018213029737 0
 109/home/neeraj/MyResume/node_modules/@parcel/runtime-service-worker/node_modules/@parcel/utils/lib/index.js.map1658693024425010623 0
@@ -1835,7 +1854,7 @@
 31/home/neeraj/MyResume/.cache/541658691990565428299 1
 98/home/neeraj/MyResume/node_modules/@parcel/core/node_modules/@parcel/utils/test/DefaultMap.test.js1658693019353026217 0
 96/home/neeraj/MyResume/node_modules/@parcel/core/node_modules/@parcel/utils/test/throttle.test.js1658693024389010734 0
-34/home/neeraj/MyResume/package.json1658693248496420965 0
+34/home/neeraj/MyResume/package.json1658725668509100032 0
 105/home/neeraj/MyResume/node_modules/@parcel/core/node_modules/@parcel/utils/test/input/sourcemap/inline.js1658693023061014805 0
 103/home/neeraj/MyResume/node_modules/@parcel/bundler-default/node_modules/@parcel/utils/src/collection.js1658693017997030405 0
 110/home/neeraj/MyResume/node_modules/@parcel/core/node_modules/@parcel/utils/test/input/sourcemap/source-root.js1658693024217011261 0
@@ -2212,6 +2231,7 @@
 131/home/neeraj/MyResume/node_modules/@parcel/transformer-react-refresh-wrap/node_modules/@parcel/utils/src/replaceBundleReferences.js1658693017401032248 0
 112/home/neeraj/MyResume/node_modules/@parcel/transformer-react-refresh-wrap/node_modules/@parcel/utils/src/glob.js1658693015525038061 0
 127/home/neeraj/MyResume/node_modules/@parcel/transformer-react-refresh-wrap/node_modules/@parcel/utils/src/generateCertificate.js1658693015469038235 0
+53/home/neeraj/MyResume/dist/fa-solid-900.b6c0d31d.woff1658725684033352128 0
 116/home/neeraj/MyResume/node_modules/@parcel/transformer-react-refresh-wrap/node_modules/@parcel/utils/src/debounce.js1658693015341038632 0
 114/home/neeraj/MyResume/node_modules/@parcel/transformer-react-refresh-wrap/node_modules/@parcel/utils/src/stream.js1658693017521031877 0
 121/home/neeraj/MyResume/node_modules/@parcel/transformer-react-refresh-wrap/node_modules/@parcel/utils/src/shared-buffer.js1658693017453032088 0
@@ -4003,6 +4023,7 @@
 89/home/neeraj/MyResume/node_modules/@parcel/runtime-react-refresh/node_modules/ansi-styles1658693011957049161 1
 66/home/neeraj/MyResume/node_modules/caniuse-lite/data/regions/CX.js1658692287505336208 0
 98/home/neeraj/MyResume/node_modules/parse5/lib/extensions/location-info/open-element-stack-mixin.js1658692286441347256 0
+56/home/neeraj/MyResume/dist/fa-regular-400.47ea9627.woff21658725683921350430 0
 89/home/neeraj/MyResume/node_modules/jsdom/lib/jsdom/living/attributes/NamedNodeMap-impl.js1658692286953341935 0
 56/home/neeraj/MyResume/node_modules/node-releases/LICENSE1658692284829364035 0
 70/home/neeraj/MyResume/node_modules/jsdom/lib/jsdom/living/node-type.js1658692287701334175 0
@@ -6305,6 +6326,7 @@
 54/home/neeraj/MyResume/node_modules/lodash/_castRest.js1658691466181497425 0
 51/home/neeraj/MyResume/node_modules/colord/README.md1658693013369044762 0
 54/home/neeraj/MyResume/node_modules/lodash/dropWhile.js1658691467309442765 0
+54/home/neeraj/MyResume/dist/fa-regular-400.a5d16130.eot1658725683921350430 0
 128/home/neeraj/MyResume/node_modules/@parcel/transformer-js/node_modules/@parcel/workers/test/integration/workerfarm/master-sum.js1658693015685037565 0
 94/home/neeraj/MyResume/node_modules/@parcel/node-resolver-core/node_modules/has-flag/index.d.ts1658693011765049760 0
 82/home/neeraj/MyResume/node_modules/@parcel/reporter-cli/node_modules/chalk/license1658693011665050072 0
@@ -6895,6 +6917,7 @@
 84/home/neeraj/MyResume/node_modules/@parcel/graph/node_modules/color-convert/index.js1658693012405047764 0
 80/home/neeraj/MyResume/node_modules/jsdom/node_modules/escodegen/bin/escodegen.js1658692285361358493 0
 122/home/neeraj/MyResume/node_modules/@parcel/optimizer-htmlnano/node_modules/entities/lib/generated/decode-data-xml.d.ts.map1658693018085030133 0
+44/home/neeraj/MyResume/dist/index.1963dff3.js1658725696581530928 0
 74/home/neeraj/MyResume/node_modules/utility-types/dist/utility-types.js.map1658693013201045284 0
 59/home/neeraj/MyResume/node_modules/lodash/_arrayIncludes.js1658691464113597946 0
 65/home/neeraj/MyResume/node_modules/csso/lib/clean/TypeSelector.js1658692287033341105 0
@@ -7048,6 +7071,7 @@
 104/home/neeraj/MyResume/node_modules/@parcel/core/node_modules/@parcel/workers/test/integration/workerfarm1658693019733025044 1
 84/home/neeraj/MyResume/node_modules/@parcel/types/node_modules/color-convert/route.js1658693012609047128 0
 66/home/neeraj/MyResume/node_modules/caniuse-lite/data/regions/JM.js1658692287693334258 0
+48/home/neeraj/MyResume/dist/index.01b45911.js.map1658725696641531732 0
 93/home/neeraj/MyResume/node_modules/@parcel/reporter-dev-server/node_modules/@parcel/utils/src1658693023061014805 1
 60/home/neeraj/MyResume/node_modules/tough-cookie/lib/store.js1658692286225349501 0
 65/home/neeraj/MyResume/node_modules/uri-js/dist/es5/uri.all.min.js1658692286501346633 0
@@ -10411,6 +10435,7 @@
 108/home/neeraj/MyResume/node_modules/@parcel/packager-svg/node_modules/@parcel/utils/src/relativeBundlePath.js1658693019121026933 0
 70/home/neeraj/MyResume/node_modules/@jridgewell/source-map/node_modules1658692281957394051 1
 103/home/neeraj/MyResume/node_modules/@parcel/transformer-image/node_modules/@parcel/utils/src/throttle.js1658693017853030850 0
+55/home/neeraj/MyResume/dist/fa-brands-400.76f8fa05.woff21658725683921350430 0
 105/home/neeraj/MyResume/node_modules/@parcel/transformer-image/node_modules/@parcel/utils/src/collection.js1658693015557037962 0
 87/home/neeraj/MyResume/node_modules/@parcel/types/node_modules/node-addon-api/LICENSE.md1658693014073042571 0
 78/home/neeraj/MyResume/node_modules/@parcel/compressor-raw/lib/RawCompressor.js1658693013357044799 0
@@ -11565,6 +11590,7 @@
 99/home/neeraj/MyResume/node_modules/@parcel/packager-html/node_modules/domutils/lib/helpers.d.ts.map1658693013181045347 0
 114/home/neeraj/MyResume/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/utils/createCustomError.js1658693014157042310 0
 113/home/neeraj/MyResume/node_modules/@parcel/optimizer-svgo/node_modules/@parcel/utils/test/input/config/empty.toml1658693025789006449 0
+54/home/neeraj/MyResume/dist/fa-regular-400.a55d9c35.svg1658725690185442496 0
 93/home/neeraj/MyResume/node_modules/@parcel/packager-html/node_modules/domutils/lib/index.d.ts1658693013557044176 0
 92/home/neeraj/MyResume/node_modules/@parcel/optimizer-svgo/node_modules/css-what/lib/commonjs1658693013865043218 1
 97/home/neeraj/MyResume/node_modules/@parcel/packager-html/node_modules/domutils/lib/stringify.d.ts1658693013693043753 0
@@ -12086,6 +12112,7 @@
 31/home/neeraj/MyResume/.cache/901658691990753424932 1
 108/home/neeraj/MyResume/node_modules/@parcel/packager-html/node_modules/@parcel/utils/src/isDirectoryInside.js1658693019725025069 0
 101/home/neeraj/MyResume/node_modules/@parcel/optimizer-svgo/node_modules/css-what/lib/es/parse.d.ts.map1658693013621043977 0
+48/home/neeraj/MyResume/dist/index.b7315fe9.js.map1658725696641531732 0
 80/home/neeraj/MyResume/node_modules/uncss/node_modules/is-absolute-url/index.d.ts1658692285365358451 0
 101/home/neeraj/MyResume/node_modules/@parcel/optimizer-htmlnano/node_modules/postcss-discard-overridden1658693012437047665 1
 101/home/neeraj/MyResume/node_modules/@parcel/optimizer-svgo/node_modules/css-what/lib/es/index.d.ts.map1658693013581044102 0
@@ -12314,6 +12341,7 @@
 101/home/neeraj/MyResume/node_modules/@parcel/optimizer-svgo/node_modules/svgo/plugins/removeComments.js1658693014165042285 0
 92/home/neeraj/MyResume/node_modules/@parcel/optimizer-svgo/node_modules/svgo/plugins/_path.js1658693013085045645 0
 104/home/neeraj/MyResume/node_modules/@parcel/optimizer-svgo/node_modules/svgo/plugins/removeHiddenElems.js1658693014245042037 0
+53/home/neeraj/MyResume/dist/fa-brands-400.3e0694c2.eot1658725683925350490 0
 99/home/neeraj/MyResume/node_modules/@parcel/optimizer-svgo/node_modules/svgo/plugins/_collections.js1658693012865046330 0
 113/home/neeraj/MyResume/node_modules/@parcel/optimizer-svgo/node_modules/svgo/plugins/removeAttributesBySelector.js1658693014153042322 0
 89/home/neeraj/MyResume/node_modules/@parcel/transformer-babel/node_modules/json5/README.md1658693013589044077 0
@@ -13922,6 +13950,7 @@
 94/home/neeraj/MyResume/node_modules/@parcel/reporter-cli/node_modules/chalk/source/templates.js1658693012441047652 0
 98/home/neeraj/MyResume/node_modules/@parcel/transformer-postcss/node_modules/ansi-styles/index.d.ts1658693012409047752 0
 110/home/neeraj/MyResume/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/plugins/removeEditorsNSData.js1658693014249042024 0
+44/home/neeraj/MyResume/dist/index.b7315fe9.js1658725696581530928 0
 132/home/neeraj/MyResume/node_modules/@parcel/transformer-svg/node_modules/posthtml/node_modules/posthtml-parser/dist/chunk.2UQLUWPH.js1658693015041039563 0
 111/home/neeraj/MyResume/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/plugins/removeElementsByAttr.js1658693014253042011 0
 103/home/neeraj/MyResume/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/plugins/minifyStyles.js1658693014109042459 0
@@ -14259,6 +14288,7 @@
 71/home/neeraj/MyResume/node_modules/csso/node_modules/css-tree/lib/lexer1658692287441336872 1
 113/home/neeraj/MyResume/node_modules/@parcel/transformer-html/node_modules/dom-serializer/node_modules/entities/lib1658693013561044164 1
 125/home/neeraj/MyResume/node_modules/@parcel/transformer-html/node_modules/dom-serializer/node_modules/entities/lib/encode.d.ts1658693013561044164 0
+55/home/neeraj/MyResume/dist/fa-regular-400.836e23f4.woff1658725683921350430 0
 123/home/neeraj/MyResume/node_modules/@parcel/transformer-html/node_modules/dom-serializer/node_modules/entities/lib/decode.js1658693012413047739 0
 129/home/neeraj/MyResume/node_modules/@parcel/transformer-html/node_modules/dom-serializer/node_modules/entities/lib/decode.d.ts.map1658693013253045123 0
 58/home/neeraj/MyResume/node_modules/lodash/sortedIndexOf.js1658691467805418765 0
